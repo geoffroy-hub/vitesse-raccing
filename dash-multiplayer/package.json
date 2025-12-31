@@ -1,0 +1,15 @@
+{
+  "name": "dash-multiplayer",
+  "version": "1.0.0",
+  "description": "Jeu de course multijoueur style Dash",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  },
+  "author": "TonNom",
+  "license": "MIT"
+}
